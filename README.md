@@ -7,6 +7,8 @@ usage, controls, development, and contribution guidelines.
 
 **Key Links**
 - Docs: [docs/](docs/)
+ - Preview: [docs/PREVIEW.md](docs/PREVIEW.md)
+ - Architecture: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
 ## Features
 - Simple, portable Python game core (console or Pygame-based depending on
